@@ -1,3 +1,4 @@
+echo Hello World
 mkdir room
 mkdir room/desk
 echo this is my macbook > room/desk/computer.file
